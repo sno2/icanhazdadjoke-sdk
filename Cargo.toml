@@ -7,7 +7,7 @@ license = "MIT"
 license-file = "LICENSE"
 description = "An SDK to interact with the icanhazdadjoke Dad Jokes API."
 repository = "https://github.com/sno2/icanhazdadjoke-sdk/"
-keywords = ["sdk", "dad jokes", "jokes"]
+keywords = ["sdk", "dad-jokes", "jokes"]
 categories = ["api-bindings", "asynchronous"]
 
 [dependencies]
