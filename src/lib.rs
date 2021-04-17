@@ -1,4 +1,4 @@
-//! This is a crate for interacting with the [icanhazdadjoke API](https://icanhazdadjoke.com/).
+//! This is an unofficial Rust SDK for interacting with the [icanhazdadjoke API](https://icanhazdadjoke.com/).
 //!
 //! Here are some examples for how you can use it:
 //!
